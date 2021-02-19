@@ -9,3 +9,5 @@ https://drive.google.com/file/d/1_U7r_hU-qkvsSf7eob7QNLFJ2PXdK40x/view?usp=shari
 
 #### For 500 epochs: 
 https://drive.google.com/file/d/1stnkNmE3ZiHo73Z6abufZPnqSQpEjk5M/view?usp=sharing
+
+#### Results: https://drive.google.com/drive/folders/1Da7R5yjUgMMRnAuwajkxLpLtnx3aM062?usp=sharing
